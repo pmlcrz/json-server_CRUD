@@ -1,0 +1,104 @@
+{
+  "seriesMaisVistas": [
+    {
+      "id": 1,
+      "titulo": "Wandinha",
+      "ano": "2022",
+      "Criado por": " Alfred Gough, Miles Millar",
+      "avaliação": "90/100",
+      "imagem": "https://br.web.img2.acsta.net/pictures/22/09/23/20/14/0505071.jpg",
+      "sinopse": "Baseada na série clássica da Família Addams, Wandinha acompanha a infame personagem homônima enquanto ela investiga uma série de assassinatos sobrenaturais pela cidade."
+    },
+    {
+      "id": 2,
+      "titulo": "Supernatural",
+      "ano": "2005 - 2020",
+      "Criado por": " Eric Kripke, McG",
+      "avaliação": "95/100",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d3/Supernatural_temporada_10_Poster.png/250px-Supernatural_temporada_10_Poster.png",
+      "sinopse": "Desde que era pequeno, Sam Winchester (Jared Padalecki) tentava escapar do próprio passsado. Após a misteriosa morte de Mary (Samantha Smith), o pai de Sam passou a procurar vingança contra as ..."
+    },
+    {
+      "id": 3,
+      "titulo": "American Horror story",
+      "ano": "Desde 2011",
+      "criado por": "Ryan Murphy, Brad Falchuk",
+      "avaliação": "85/100",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/AHS_Muder_House_poster.jpg/240px-AHS_Muder_House_poster.jpg",
+      "sinopse": "A trama se inspira em temas, formatos e gêneros já conhecidos dos amantes de terror como casas assombradas, pessoas possuídas ou assassinos implacáveis para surpreender o público com cenas chocantes de violência. A cada temporada, a série apresenta um novo enredo com protagonistas carismáticos e vilões sádicos e assustadores cometendo diversos atos impensáveis. Embora seja uma antologia, American Horror Story costuma reutilizar em suas temporadas os mesmos atores intepretando sempre novos personagens. Entre os rostos mais recorrentes da série estão Sarah Paulson, Evan Peters, Lily Rabe, Jessica Lange, Angela Bassett e Kathy Bates."
+    },
+    {
+      "id": 4,
+      "titulo": "Round 6",
+      "ano": "2021",
+      "criado por": " Hwang Dong-hyuk",
+      "avaliação": "95/100",
+      "imagem": "https://tracklist.com.br/wp-content/uploads/2021/10/squidgame-1024x576.png",
+      "sinopse": "um grupo de pessoas desesperadas por dinheiro que recebem um misterioso convite para participar de jogos competitivos inspirados em brincadeiras infantis. Sem saber qualquer coisa sobre o convite, centenas de pessoas comparecem ao local para participar do evento. Ao final do jogo, o vencedor poderá levar para casa um prêmio milionário e resolver todas as suas dívidas. Porém, o que eles não sabem é que os perdedores não saírão vivos desse jogo. Agora os competidores precisarão lutar para sobreviver a essa macabra disputa."
+    }
+  ],
+  "proximosLancamentos": [
+    {
+      "id": 1,
+      "titulo": "Velma",
+      "ano": "2023",
+      "criado por": "Mindy Kaling, Charlie Grandy",
+      "imagem": "https://veja.abril.com.br/wp-content/uploads/2023/01/velma-hbomax.jpg?quality=70&strip=info&w=1280&h=720&crop=1"
+    },
+    {
+      "id": 2,
+      "titulo": "The Last of Us",
+      "ano": "2023",
+      "criado por": "Naughty Dog",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/be/The_Last_of_Us_capa.png"
+    },
+    {
+      "id": 3,
+      "titulo": "Junji Ito: Histórias Macabras do Japão",
+      "ano": "2023",
+      "criado por": "Romi Park",
+      "imagem": "https://mundo-nipo.com/wp-content/uploads/2022/11/Junji-Ito-Historias-Macrabras-do-Japao_900x600.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Você",
+      "ano": "2023",
+      "criado por": "Greg Berlanti, Sera Gamble",
+      "imagem": "https://br.web.img3.acsta.net/pictures/18/12/31/02/49/2373131.jpg"
+    }
+  ],
+  "melhorAvaliadas": [
+      {
+          "id": 1,
+          "titulo": "Titans",
+          "ano": "2018",
+          "criado por": "Geoff Johns, Greg Berlanti",
+          "avaliação": "98/100",
+          "imagem": "https://flxt.tmsimg.com/assets/p15910944_b_v13_al.jpg"
+      },
+      {
+          "id": 2,
+          "titulo": "La casa de papel",
+          "ano": "2016",
+          "criado por": "Álex Pina",
+          "avaliação": "98/100",
+          "imagem": "https://static.wikia.nocookie.net/dublagem/images/c/ca/La_Casa_de_Papel.jpg/revision/latest?cb=20210906003054&path-prefix=pt-br"
+      },
+        {
+          "id": 3,
+          "titulo": "Anne com E",
+          "ano": "2017",
+          "criado por": "Moira Walley-Beckett, L. M. Montgomery, Kathryn Borel",
+          "avaliação": "99/100",
+          "imagem": "https://portal.megabrasil.com.br/imagens/20201208_5fcfa3a7e92f5.jpg"
+        },
+        {
+          "id": 4,
+          "titulo": "The Crown",
+          "ano": "2016",
+          "di": "Peter Morgan",
+          "avaliação": "99/100",
+          "imagem": "https://revistaanamaria.com.br/media/_versions/2022-11/the-crown-principe-harry_widelg.jpg"
+        }
+  ]
+}
